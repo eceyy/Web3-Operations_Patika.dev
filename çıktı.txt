@@ -1,0 +1,6 @@
+› toplama(5)
+(5)
+› cikarma(2)
+(3)
+› temizle()
+()
